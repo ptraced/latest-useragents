@@ -1,7 +1,6 @@
 # Latest UserAgents
-- iOS
-- Android
-- Desktop Linux/Windows
+- Mobile: Android/iOS
+- Desktop: Linux/Windows
 
 # Contributing Guidlines
 - Only Latest iOS Versions That Are Actively Supported
