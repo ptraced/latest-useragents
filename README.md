@@ -5,5 +5,5 @@
 # Contributing Guidlines
 - Only Latest Android/iOS/Windows/Linux Versions That Are Actively Supported
 - Only Latest Windows Versions That Are Actively Supported
-- Only The Following Browsers (Safari,Chrome,Firefox,Edge,Opera)
+- Only The Following Browsers (Safari,Chrome,Firefox,Edge)
 - Make sure your APP is fully up to date before PR Request
